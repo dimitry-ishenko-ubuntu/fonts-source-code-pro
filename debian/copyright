@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: source-code-pro
+Source: https://github.com/adobe-fonts/source-code-pro
+
+Files: *
+Copyright: 2010-2023 Adobe, http://www.adobe.com
+License: OFL-1.1
+
+Files: debian/*
+Copyright: 2023 Dimitry Ishenko <dimitry.ishenko@gmail.com>
+License: GPL-3+

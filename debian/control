@@ -1,0 +1,14 @@
+Source: fonts-source-code-pro
+Priority: optional
+Section: fonts
+Maintainer: Dimitry Ishenko <dimitry.ishenko@gmail.com>
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 4.6.0
+Rules-Requires-Root: no
+Homepage: https://github.com/adobe-fonts/source-code-pro
+Vcs-Git: https://github.com/dimitry-ishenko-ubuntu/fonts-source-code-pro.git
+Vcs-Browser: https://github.com/dimitry-ishenko-ubuntu/fonts-source-code-pro
+
+Package: fonts-source-code-pro
+Architecture: all
+Description: Monospaced font family for user interface and coding environments
