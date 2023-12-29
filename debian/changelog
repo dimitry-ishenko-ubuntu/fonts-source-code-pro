@@ -1,5 +1,58 @@
-fonts-source-code-pro (2.042-1) UNRELEASED; urgency=medium
+fonts-source-code-pro (2.042-1) unstable; urgency=medium
 
-  * Initial Release.
+  [ Miguel Sousa ]
+  * Release version 1.010
+  * Release version 1.013
+  * Release version 1.017
+  * Adds README, CSS and JSON files
+  * Release version 2.010 (Roman) and 1.030 (Italic)
+  * Path fixes
+  * add Bower installation instructions. Update Windows link
+  * new package.json for npm install
+  * npm install instructions
+  * Update npm instructions
 
- -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Fri, 29 Dec 2023 12:28:08 -0500
+  [ Paul D. Hunt ]
+  * Release version 2.030 (romans) & version 1.050 (italics)
+
+  [ Miguel Sousa ]
+  * Fix URL to official font readme file. Replace Mac OS X with macOS. Fix mailto URL.
+  * Update macOS link
+  * Update package.json
+  * Use SPDX identifier
+
+  [ Lex Blagus ]
+  * Added ./ to source-code-pro.css fixing Next 9 building issue
+
+  [ Miguel Sousa ]
+  * Update LICENSE
+  * Update README
+  * Remove Bower config file
+  * Remove EOT fonts
+  * Add variable fonts
+  * Update package.json file
+
+  [ Greg Hurrell ]
+  * Remove executable bit from non-executable files
+
+  [ Paul D. Hunt ]
+  * Source Code Pro: Roman 2.032, Italic 1.052, VAR 1.012 Updates all font format to remove SVG table.
+  * Source Code Pro, version 2038 (roman), version 1.058 (italic), version 1,018 (variable)— Updates all font files
+
+  [ Frank Grießhammer ]
+  * Update package.json
+
+  [ Zachary Quinn Scheuren ]
+  * Update README.md
+
+  [ Paul D. Hunt ]
+  * Source Code Pro, version 2.040 (roman), version 1.060 (italic), version 1.024 (variable)— Submits updated OTF, TTF, VF (renamed from VAR) & WOFF2 files.
+  * Update LICENSE.md
+  * Source Code Pro, version 2.040 (roman), version 1.060 (italic), version 1.024 (variable)— Commits updated WOFF files.
+  * Source Code Pro, version 2.042 (uprights), version 1.062 (italics), version 1.026 (variable)— Submits updated OTF, TTF, VF & WOFF2 files.
+  * Source Code Pro, version 2.042 (uprights), version 1.062 (italics), version 1.026 (variable)— Commits updated WOFF files.
+
+  [ Dimitry Ishenko ]
+  * Add Debian packaging
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Fri, 29 Dec 2023 12:38:22 -0500
